@@ -1,7 +1,9 @@
 # Heater
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-black)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)[![prs](https://img.shields.io/github/issues-pr/ahnaf-zamil/heater)](https://github.com/ahnaf-zamil/heater/pulls)
+![Pypi](https://img.shields.io/pypi/v/heater.svg)
+![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-black)[![pyvers](https://img.shields.io/pypi/pyversions/heater)](https://pypi.org/project/heater)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ahnaf-zamil/heater?include_prereleases)[![issues](https://img.shields.io/github/issues-raw/ahnaf-zamil/heater)](https://github.com/ahnaf-zamil/heater/issues)
 
 Heat up a Discord bot in a blink
 
@@ -11,7 +13,7 @@ Heater is a Command Line Interface tool which allows you to generate a barebones
 
 ## Getting Started
 
-Install Heater by running `pip install discord-heater` (once it has been released on PyPi) on your Terminal or Command Prompt.
+Install Heater by running `pip install discord-heater` on your Terminal or Command Prompt.
 
 To generate a project, just type `discord-heater` or `python -m discord-heater`. Then it will ask you a few questions (name of the project,
 dependencies, prefix, etc).
@@ -27,3 +29,27 @@ Once you are done:
 If you are considering to contribute, thanks a lot! We welcome all contributors here and, you can help out as well.
 Before contributing, please check out our [CONTRIBUTING.md](CONTRIBUTING.md) and
 [Code of Conduct](CODE_OF_CONDUCT.md) for more information.
+
+## License
+
+MIT License
+
+Copyright (c) 2021 K.M Ahnaf Zamil
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
