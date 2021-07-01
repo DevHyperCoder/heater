@@ -7,13 +7,13 @@ Heat up a Discord bot in a blink
 
 ## What is Heater?
 
-Heater is a Ccommand Line Interface tool which allows you to generate a barebones Python Discord bot project, just in a matter of seconds.
+Heater is a Command Line Interface tool which allows you to generate a barebones Python Discord bot project, just in a matter of seconds.
 
 ## Getting Started
 
-Install Heater by running `pip install heater` (once it has been released on PyPi) on your Terminal or Command Prompt.
+Install Heater by running `pip install discord-heater` (once it has been released on PyPi) on your Terminal or Command Prompt.
 
-To generate a project, just type `heater` or `python -m heater`. Then it will ask you a few questions (name of the project,
+To generate a project, just type `discord-heater` or `python -m discord-heater`. Then it will ask you a few questions (name of the project,
 dependencies, prefix, etc).
 
 Once you are done:
