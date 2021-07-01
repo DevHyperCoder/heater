@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+test_config.py
+heater.egg-info/
+build/
+dist/
+.vscode/
+.idea/
