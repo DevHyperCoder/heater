@@ -1,8 +1,8 @@
 # Heater
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)[![prs](https://img.shields.io/github/issues-pr/ahnaf-zamil/heater)](https://github.com/ahnaf-zamil/heater/pulls)
+![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)[![prs](https://img.shields.io/github/issues-pr/ahnaf-zamil/heater)](https://github.com/ahnaf-zamil/heater/pulls)
 ![Pypi](https://img.shields.io/pypi/v/heater.svg)
-![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-black)[![pyvers](https://img.shields.io/pypi/pyversions/heater)](https://pypi.org/project/heater)
+![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-black)[![pyvers](https://img.shields.io/badge/python-3.8%20%7C%203.9-blue)](https://pypi.org/project/heater)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ahnaf-zamil/heater?include_prereleases)[![issues](https://img.shields.io/github/issues-raw/ahnaf-zamil/heater)](https://github.com/ahnaf-zamil/heater/issues)
 
 Heat up a Discord bot in a blink
